@@ -1,0 +1,22 @@
+{
+  "name": "rtscherer.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtscherer/rtscherer.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtscherer/rtscherer.github.io/issues"
+  },
+  "homepage": "https://github.com/rtscherer/rtscherer.github.io#readme",
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}

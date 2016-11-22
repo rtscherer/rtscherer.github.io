@@ -1,0 +1,21 @@
+{
+  "name": "rtscherer.github.io",
+  "description": "ryan scherer personal website",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
